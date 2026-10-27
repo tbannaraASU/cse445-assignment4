@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <NationalParks>
-    <NationalPark Rating="4.8">
+    <NationalPark Rating="4.9">
         <Name>Grand Canyon National Park</Name>
         <Phone>928-638-7496</Phone>
         <Phone>888-297-2757</Phone>
@@ -13,7 +13,7 @@
             <Zip>86023</Zip>
         </Address>
     </NationalPark>
-    <NationalPark Rating="4.8">
+    <NationalPark>
         <Name>Yellowstone National Park</Name>
         <Phone>307-344-7381</Phone>
         <Address NearestAirport="Bozeman Yellowstone International Airport">
@@ -35,7 +35,7 @@
             <Zip>85643</Zip>
         </Address>
     </NationalPark>
-    <NationalPark Rating="4.8">
+    <NationalPark>
         <Name>Glacier National Park</Name>
         <Phone>406-888-7800</Phone>
         <Address NearestAirport="Glacier Park International Airport">
@@ -57,7 +57,7 @@
             <Zip>95389</Zip>
         </Address>
     </NationalPark>
-    <NationalPark Rating="4.8">
+    <NationalPark>
         <Name>Zion National Park</Name>
         <Phone>435-772-3256</Phone>
         <Address NearestAirport="St. George Regional Airport">
@@ -79,7 +79,7 @@
             <Zip>84764</Zip>
         </Address>
     </NationalPark>
-    <NationalPark Rating="4.9">
+    <NationalPark>
         <Name>Rocky Mountain National Park</Name>
         <Phone>970-586-1206</Phone>
         <Address NearestAirport="Denver International Airport">
@@ -101,7 +101,7 @@
             <Zip>96718</Zip>
         </Address>
     </NationalPark>
-    <NationalPark Rating="4.8">
+    <NationalPark>
         <Name>White Sands National Park</Name>
         <Phone>575-479-6124</Phone>
         <Address NearestAirport="El Paso International Airport">
